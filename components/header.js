@@ -1,7 +1,7 @@
 function Header() {
     return (
       <div className="header">
-        <h2>ToDo Next Govind app</h2>
+        <h2>ToDo Next app</h2>
       </div>
     );
   }
