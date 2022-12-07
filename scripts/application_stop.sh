@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo systemctl stop MyApp
+
+sudo systemctl stop myApp
