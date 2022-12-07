@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/ubuntu/app
-sudo systemctl start myApp
+sudo systemctl start MyApp

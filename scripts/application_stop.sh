@@ -1,3 +1,3 @@
 #!/bin/bash
 cd /home/ubuntu/app
-sudo systemctl stop myApp
+sudo systemctl stop MyApp
