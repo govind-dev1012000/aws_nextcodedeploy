@@ -2,4 +2,4 @@
 
 # sudo systemctl stop myApp
 
-pm2 stop ecosystem.config.js
+# pm2 stop nextapp
