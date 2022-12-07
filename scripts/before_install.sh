@@ -5,7 +5,7 @@ sudo apt-get install -y nodejs
 node -v && npm -v
 npm install pm2@latest -g
 
-IS_ACTIVE=$(sudo systemctl status pm2-ubuntu)
+IS_ACTIVE=$(sudo systemctl is-active pm2-ubuntu)
 if [ "$IS_ACTIVE" == "active" ]; then
     # restart the service
     echo "Service is running"

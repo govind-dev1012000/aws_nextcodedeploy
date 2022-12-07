@@ -2,4 +2,4 @@
 cd /home/ubuntu/app
 # sudo systemctl start myApp
 
-pm2 start ecosystem.config.js
+pm2 start nextapp
